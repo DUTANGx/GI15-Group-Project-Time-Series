@@ -1,0 +1,2 @@
+MAPE value is 0.195549719563¡£
+RMSE value is 19.6831079703.
