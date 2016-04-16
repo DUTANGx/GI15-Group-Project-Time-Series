@@ -1,0 +1,5 @@
+use last 11 month to train:
+Execution Time : 30 min
+The RMSE is  57.1362626282
+The MAPE is  0.545638300635
+
